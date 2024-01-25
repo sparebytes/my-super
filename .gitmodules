@@ -1,0 +1,14 @@
+[submodule "my-setup"]
+	path = my-setup
+	url = ../my-setup.git
+	branch = main
+
+[submodule "my-typescript"]
+	path = my-typescript
+	url = ../my-typescript.git
+	branch = main
+
+[submodule "my-junk"]
+	path = my-junk
+	url = ../my-junk.git
+	branch = main
