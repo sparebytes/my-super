@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "my-junk"
+    },
+    {
+      "path": "my-setup"
+    },
+    {
+      "path": "my-typescript"
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "Quiet Light",
+    "editor.rulers": [
+      {
+        "color": "#e6e6e6",
+        "column": 80
+      },
+      {
+        "color": "#d4d4d4",
+        "column": 100
+      },
+      {
+        "color": "#e6e6e6",
+        "column": 120
+      }
+    ]
+  }
+}
