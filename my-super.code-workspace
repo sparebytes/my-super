@@ -11,6 +11,9 @@
     },
     {
       "path": "my-typescript"
+    },
+    {
+      "path": "my-scratch"
     }
   ],
   "settings": {
